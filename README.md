@@ -1,4 +1,4 @@
-web: https://movie-webapp-api.vercel.app/movie/1423642
+web: https://movie-webapp-api.vercel.app
 
 🎬 Movie App (Vite + React + Zustand + MUI)
 A fast and modern movie application built with Vite and React, using Zustand for efficient state management and Material-UI (MUI) for sleek UI components. The app supports movie browsing, search, and detailed views — all with a clean, responsive design and high performance thanks to Vite.
